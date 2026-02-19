@@ -1,3 +1,4 @@
+#### A fully uncensored Large Language Model, meticulously fine-tuned for the advanced development of all offensive security applications, encompassing every conceivable attack vector. This model features an autonomous AI agent capable of sophisticated management and orchestration.
 ---
 license: apache-2.0
 library_name: transformers
